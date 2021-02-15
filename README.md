@@ -18,7 +18,7 @@ Kunst | [Link](https://zoom.us/j/98839831021?pwd=WHRFOEZnYmF4MEpQMEpFTDJNajBadz0
 Wirtschaft | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjViZGEzMGMtZDRiMy00N2EyLTk4ZDItYmQ5NzQ4Y2ZiNDYz%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%22a96876a7-de37-424f-8592-9cbd14988be1%22%7d)
 ##### Nützliche Links
 - [Schulbistum](https://schulbistum.de)
-- [GoogleDocs](https://docs.google.com)
+- [Google Docs](https://docs.google.com)
 - [Google](https://google.com)
 ### Stundenplan
 Zeit | Montag | Dienstag | Mittwoch | Donnerstag | Freitag
