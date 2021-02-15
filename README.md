@@ -20,3 +20,12 @@ Wirtschaft | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjViZ
 - [Schulbistum](https://schulbistum.de)
 - [GoogleDocs](https://docs.google.com)
 - [Google](https://google.com)
+### Stundenplan
+Zeit | Montag | Dienstag | Mittwoch | Donnerstag | Freitag
+-----|--------|----------|----------|------------|--------
+8:15 - 9:00 | Geschichte | WP2 | Englisch | ----- | Sport
+9:05 - 9:50 | Religion | ----- | ----- | Wirtschaft | -----
+10:10 - 10:55 | ----- | Mathe | WP1 | Mathe | Deutsch
+10:55 - 11:40 | Erdkunde | Deutsch | ----- | ----- | WP1
+11:55 - 12:40 | Kunst | Physik | Bio | ----- | -----
+12:40 - 13:25 | ----- | ----- | ----- | Englisch | -----
