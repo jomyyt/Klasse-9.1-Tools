@@ -1,6 +1,6 @@
 # Klasse 9.1 Tools
  Tools und links für die klasse 9.1
-### Links to lessons lol
+### Links für den Untericht
 Fach | Link
 -----|-----
 Deutsch | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTg1Yzc4NmQtYTBiZi00MDFhLWJhMmYtMzhkZjE3YTMyMTA2%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%221029a735-657e-4f94-970d-753fc16e7d5c%22%7d)
@@ -12,7 +12,7 @@ Physik | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFkN2RmY
 Erdkunde | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQwYjY1ZTUtZTU0ZS00NTU4LTk1YzMtNmYzMDI1MzQyOGM2%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%2257919de2-345a-4943-b4b1-1912d852a14a%22%7d)
 Geschichte | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM2ODZiMWEtMzZkOS00NjIxLWJlMTMtNTlmOTY5MTgwZDJm%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%2204ffa630-376b-43bb-a0c5-ec08f30834aa%22%7d)
 
-##### Usefull links 
+##### Nützliche Links
 - [Schulbistum](https://schulbistum.de)
 - [GoogleDocs](https://docs.google.com)
 - [Google](https://google.com)
