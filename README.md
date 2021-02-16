@@ -16,6 +16,7 @@ Relli EBM | [Link](https://us05web.zoom.us/j/84029977245?pwd=UnptcDIyWHIwcGQ5YVF
 Relli Katholisch | 
 Kunst | [Link](https://zoom.us/j/98839831021?pwd=WHRFOEZnYmF4MEpQMEpFTDJNajBadz09)
 Wirtschaft | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjViZGEzMGMtZDRiMy00N2EyLTk4ZDItYmQ5NzQ4Y2ZiNDYz%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%22a96876a7-de37-424f-8592-9cbd14988be1%22%7d)
+Informatik | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTY3NjlmN2QtMjcyMi00NzQxLWFjNmMtYTI4OWZiZTg1NDU0%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%2287249070-d4d1-47df-8df5-2e734f0078a3%22%7d)
 ##### Nützliche Links
 - [Schulbistum](https://schulbistum.de)
 - [Google Docs](https://docs.google.com)
