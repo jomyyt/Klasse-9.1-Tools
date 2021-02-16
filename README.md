@@ -3,7 +3,7 @@
 ### Links für den Untericht
 Fach | Link
 -----|-----
-Deutsch | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTg1Yzc4NmQtYTBiZi00MDFhLWJhMmYtMzhkZjE3YTMyMTA2%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%221029a735-657e-4f94-970d-753fc16e7d5c%22%7d)
+Deutsch | [Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjJiMjRlMmMtOWNmNy00YzgwLTg2NTctMTExNWY4NzZmZjRm%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%22cb8a315c-de0d-4af3-b8cb-018bba55a470%22%7d)
 Englisch | [Mittwochs](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzQ3YmRiM2QtNWVkMy00YmVjLWEyZjctOTMwMWIwNDlhZWZi%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%2204ffa630-376b-43bb-a0c5-ec08f30834aa%22%7d) , [Donnerstags](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmY0MjhmNjAtODliMC00NTQ1LTlkZjAtYmMxODJkMzVhMjI4%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%2204ffa630-376b-43bb-a0c5-ec08f30834aa%22%7d)
 Mathe | [Link](https://zoom.us/j/97898549387?pwd=NnoxeGk1K3VBWVFwWnlCMUl1MjFFdz09)
 Französisch Bruckman | [Link](https://zoom.us/j/4997180968?pwd=dFJJR29xbnpqMEptay9FWnRZRkdXZz09)
