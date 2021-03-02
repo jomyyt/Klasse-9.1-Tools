@@ -155,7 +155,7 @@ table, th, td {
                 for(var i=0; i<keys.length; i++){
                     keyOn[i] = false;
                 }
-                addEventListener('keydown', function(e){
+                document.addEventListener('keydown', function(e){
                     var keyCode = e.which;
                     console.log(keyCode);
                     var idx = keys.indexOf(keyCode);
@@ -170,7 +170,7 @@ table, th, td {
                     }
                     setTimeout(callback, 100);
                 });
-                addEventListener('keyup', function(e){
+                document.addEventListener('keyup', function(e){
                     var keyCode = e.which;
                     var idx = keys.indexOf(keyCode);
                     if(idx!=-1){
