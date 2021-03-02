@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <meta http-equiv="cache-control" content="no-cache">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
 <html>
     <table class="table" cellspacing="1">
         <thead>
@@ -146,56 +147,3 @@ table, th, td {
     border: 2px solid black;
 }
 </style>
-<script>
- var keyIncrease = [17, 61];
-            var keyDecrease = [17, 173];
-            var keyDefault = [17, 48];
-            var listenMultiKeypress = function(keys, callback){
-                var keyOn = [];
-                for(var i=0; i<keys.length; i++){
-                    keyOn[i] = false;
-                }
-                document.addEventListener('keydown', function(e){
-                    var keyCode = e.which;
-                    console.log(keyCode);
-                    var idx = keys.indexOf(keyCode);
-                    if(idx!=-1){
-                        keyOn[idx] = true;
-                    }
-                    console.log(keyOn);
-                    for(var i=0; i<keyOn.length; i++){
-                        if(!keyOn[i]){
-                            return;
-                        }
-                    }
-                    setTimeout(callback, 100);
-                });
-                document.addEventListener('keyup', function(e){
-                    var keyCode = e.which;
-                    var idx = keys.indexOf(keyCode);
-                    if(idx!=-1){
-                        keyOn[idx] = false;
-                    }
-                    console.log(keyOn);
-                });
-            };
-            var previousScale = 1;
-            var previousDevicePixelRatio;
-            var neutralizeZoom = function(){
-                //alert('caught');
-                var scale = 1/window.devicePixelRatio;
-
-                document.body.style.transform = 'scale('+(1/previousScale)+')';
-                document.body.style.transform = 'scale('+scale+')';
-                var widthDiff = parseInt(getComputedStyle(window.document.body).width)*(scale-1);
-                var heightDiff = parseInt(getComputedStyle(window.document.body).height)*(scale-1);
-                document.body.style.left = widthDiff/2 + 'px';
-                document.body.style.top = heightDiff/2 + 'px';
-                previousScale = scale;
-            };
-
-            listenMultiKeypress(keyIncrease, neutralizeZoom);
-            listenMultiKeypress(keyDecrease, neutralizeZoom);
-            listenMultiKeypress(keyDefault, neutralizeZoom);
-            neutralizeZoom();
-</script>
