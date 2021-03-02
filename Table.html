@@ -147,19 +147,55 @@ table, th, td {
 }
 </style>
 <script>
-    $(document).keydown(function(event) {
-if (event.ctrlKey==true && (event.which == '61' || event.which == '107' || event.which == '173' || event.which == '109'  || event.which == '187'  || event.which == '189'  ) ) {
-        event.preventDefault();
-     }
-    // 107 Num Key  +
-    // 109 Num Key  -
-    // 173 Min Key  hyphen/underscor Hey
-    // 61 Plus key  +/= key
-});
+ var keyIncrease = [17, 61];
+            var keyDecrease = [17, 173];
+            var keyDefault = [17, 48];
+            var listenMultiKeypress = function(keys, callback){
+                var keyOn = [];
+                for(var i=0; i<keys.length; i++){
+                    keyOn[i] = false;
+                }
+                addEventListener('keydown', function(e){
+                    var keyCode = e.which;
+                    console.log(keyCode);
+                    var idx = keys.indexOf(keyCode);
+                    if(idx!=-1){
+                        keyOn[idx] = true;
+                    }
+                    console.log(keyOn);
+                    for(var i=0; i<keyOn.length; i++){
+                        if(!keyOn[i]){
+                            return;
+                        }
+                    }
+                    setTimeout(callback, 100);
+                });
+                addEventListener('keyup', function(e){
+                    var keyCode = e.which;
+                    var idx = keys.indexOf(keyCode);
+                    if(idx!=-1){
+                        keyOn[idx] = false;
+                    }
+                    console.log(keyOn);
+                });
+            };
+            var previousScale = 1;
+            var previousDevicePixelRatio;
+            var neutralizeZoom = function(){
+                //alert('caught');
+                var scale = 1/window.devicePixelRatio;
 
-$(window).bind('mousewheel DOMMouseScroll', function (event) {
-       if (event.ctrlKey == true) {
-       event.preventDefault();
-       }
-});
+                document.body.style.transform = 'scale('+(1/previousScale)+')';
+                document.body.style.transform = 'scale('+scale+')';
+                var widthDiff = parseInt(getComputedStyle(window.document.body).width)*(scale-1);
+                var heightDiff = parseInt(getComputedStyle(window.document.body).height)*(scale-1);
+                document.body.style.left = widthDiff/2 + 'px';
+                document.body.style.top = heightDiff/2 + 'px';
+                previousScale = scale;
+            };
+
+            listenMultiKeypress(keyIncrease, neutralizeZoom);
+            listenMultiKeypress(keyDecrease, neutralizeZoom);
+            listenMultiKeypress(keyDefault, neutralizeZoom);
+            neutralizeZoom();
 </script>
