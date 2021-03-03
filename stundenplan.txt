@@ -7,3 +7,4 @@ Geschichte=https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjM2ODZiMWEtMz
 Bio=https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjM2ZGIzZjMtNjkwYi00N2JjLWJiNzgtMzgxMjFkODM1NDgz%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%227e7387b8-ea10-4d59-82fa-0f493e9a33bd%22%7d
 Kunst=https://zoom.us/j/96161130192?pwd=b0pOWStMZ0tza3dwSVlPaGJwSTBXZz09
 Wirtschaft=https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjViZGEzMGMtZDRiMy00N2EyLTk4ZDItYmQ5NzQ4Y2ZiNDYz%40thread.v2/0?context=%7b%22Tid%22%3a%22782c9249-feff-462e-837c-856d55aa2749%22%2c%22Oid%22%3a%22a96876a7-de37-424f-8592-9cbd14988be1%22%7d
+Sport=https://zoom.us/j/97813149954?pwd=RjVyUzRucjRyUGZWZTZSVTFsb3Qwdz09
